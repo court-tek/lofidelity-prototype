@@ -37,7 +37,7 @@ let fakeServerData = {
         songs: [
           { name: "White Collar Criminal", duration: 3621 },
           { name: "I dont Know Why", duration: 9121 },
-          { name: "Oh No", duration: 36912 }
+          { name: "Legalize It", duration: 36912 }
         ]
       }
     ]
